@@ -1,7 +1,18 @@
+layout_spectrum: 0.3400475103408098
+typography_spectrum: 0.22249899269081652
+color:
+  brandColors:
+    - '#b6cfb9'
+    - '#449363'
+    - '#31634a'
+    - '#fffdff'
+    - '#b0845c'
+  brandStrength: 0.2248039892874658
+  lightness: 0.19310130178928375
+  saturation: 0.6544121010228992
+  rhythmicContrast: 0.9515945671591908
 name: twoi
 favicon: null
-layout_spectrum: 0.61919
-typography_spectrum: 0.99649
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#b6cfb9'
-    - '#449363'
-    - '#31634a'
-    - '#fffdff'
-    - '#b0845c'
-  brandStrength: 0.2248039892874658
-  lightness: 0.19310130178928375
-  saturation: 0.6544121010228992
-  rhythmicContrast: 0.9515945671591908
 purpose: []
